@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40f0341e-3c61-488c-847c-f00cc97e8db4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="a00c75b9-23f2-42c7-a40b-1ae7a5ab949c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/FirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/jt/sandbox/FirstProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/build/classes/java/main/ru/jt/sandbox/FirstProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/ru/jt/sandbox/FirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/FirstProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1b2lBfGLKuNrqnPKKWlruDnnjQD" />
+  <component name="ProjectId" id="1b2mEqTGaz4iHowueG31yEjB2pO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,21 +50,15 @@
   </component>
   <component name="RunManager">
     <configuration name="FirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.jt.sandbox.FirstProgram" />
+      <option name="MAIN_CLASS_NAME" value="FirstProgram" />
       <module name="sandbox.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.jt.sandbox.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstProgram" />
+        <item itemvalue="Application.FirstProgram1" />
       </list>
     </recent_temporary>
   </component>
@@ -74,26 +67,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="40f0341e-3c61-488c-847c-f00cc97e8db4" name="Default Changelist" comment="" />
-      <created>1587837934569</created>
+      <changelist id="a00c75b9-23f2-42c7-a40b-1ae7a5ab949c" name="Default Changelist" comment="" />
+      <created>1587838453622</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587837934569</updated>
+      <updated>1587838453622</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="158" y="27" width="1024" height="676" key="#Project_Structure" timestamp="1587837959855">
+    <state x="158" y="27" width="1024" height="676" key="#Project_Structure" timestamp="1587838475059">
       <screen x="46" y="27" width="1258" height="676" />
     </state>
-    <state x="158" y="27" width="1024" height="676" key="#Project_Structure/46.27.1258.676@46.27.1258.676" timestamp="1587837959855" />
-    <state x="453" y="72" width="424" height="592" key="FileChooserDialogImpl" timestamp="1587837954945">
+    <state x="158" y="27" width="1024" height="676" key="#Project_Structure/46.27.1258.676@46.27.1258.676" timestamp="1587838475059" />
+    <state x="453" y="72" width="424" height="592" key="FileChooserDialogImpl" timestamp="1587838468245">
       <screen x="46" y="27" width="1258" height="676" />
     </state>
-    <state x="453" y="72" width="424" height="592" key="FileChooserDialogImpl/46.27.1258.676@46.27.1258.676" timestamp="1587837954945" />
-    <state x="164" y="27" width="1012" height="676" key="SettingsEditor" timestamp="1587837972497">
+    <state x="453" y="72" width="424" height="592" key="FileChooserDialogImpl/46.27.1258.676@46.27.1258.676" timestamp="1587838468245" />
+    <state x="164" y="27" width="1012" height="676" key="SettingsEditor" timestamp="1587838487739">
       <screen x="46" y="27" width="1258" height="676" />
     </state>
-    <state x="164" y="27" width="1012" height="676" key="SettingsEditor/46.27.1258.676@46.27.1258.676" timestamp="1587837972497" />
+    <state x="164" y="27" width="1012" height="676" key="SettingsEditor/46.27.1258.676@46.27.1258.676" timestamp="1587838487739" />
   </component>
 </project>
