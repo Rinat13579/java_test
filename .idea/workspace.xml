@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a00c75b9-23f2-42c7-a40b-1ae7a5ab949c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/build/classes/java/main/ru/jt/sandbox/FirstProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/ru/jt/sandbox/FirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/FirstProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/FirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/jt/sandbox/FirstProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +58,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/sandbox/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -50,17 +67,12 @@
   </component>
   <component name="RunManager">
     <configuration name="FirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstProgram" />
+      <option name="MAIN_CLASS_NAME" value="ru.jt.sandbox.FirstProgram" />
       <module name="sandbox.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.FirstProgram1" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -75,15 +87,47 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="158" y="27" width="1024" height="676" key="#Project_Structure" timestamp="1587838475059">
       <screen x="46" y="27" width="1258" height="676" />
     </state>
     <state x="158" y="27" width="1024" height="676" key="#Project_Structure/46.27.1258.676@46.27.1258.676" timestamp="1587838475059" />
+    <state x="133" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587838624055">
+      <screen x="46" y="27" width="1258" height="676" />
+    </state>
+    <state x="133" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/46.27.1258.676@46.27.1258.676" timestamp="1587838624055" />
     <state x="453" y="72" width="424" height="592" key="FileChooserDialogImpl" timestamp="1587838468245">
       <screen x="46" y="27" width="1258" height="676" />
     </state>
     <state x="453" y="72" width="424" height="592" key="FileChooserDialogImpl/46.27.1258.676@46.27.1258.676" timestamp="1587838468245" />
+    <state width="1212" height="151" key="GridCell.Tab.0.bottom" timestamp="1587838760164">
+      <screen x="46" y="27" width="1258" height="676" />
+    </state>
+    <state width="1212" height="151" key="GridCell.Tab.0.bottom/46.27.1258.676@46.27.1258.676" timestamp="1587838760164" />
+    <state width="1212" height="151" key="GridCell.Tab.0.center" timestamp="1587838760163">
+      <screen x="46" y="27" width="1258" height="676" />
+    </state>
+    <state width="1212" height="151" key="GridCell.Tab.0.center/46.27.1258.676@46.27.1258.676" timestamp="1587838760163" />
+    <state width="1212" height="151" key="GridCell.Tab.0.left" timestamp="1587838760160">
+      <screen x="46" y="27" width="1258" height="676" />
+    </state>
+    <state width="1212" height="151" key="GridCell.Tab.0.left/46.27.1258.676@46.27.1258.676" timestamp="1587838760160" />
+    <state width="1212" height="151" key="GridCell.Tab.0.right" timestamp="1587838760164">
+      <screen x="46" y="27" width="1258" height="676" />
+    </state>
+    <state width="1212" height="151" key="GridCell.Tab.0.right/46.27.1258.676@46.27.1258.676" timestamp="1587838760164" />
     <state x="164" y="27" width="1012" height="676" key="SettingsEditor" timestamp="1587838487739">
       <screen x="46" y="27" width="1258" height="676" />
     </state>
